@@ -1,8 +1,9 @@
 # GPS con guardado de datos
+## Juan Gualotuña
 
-GPS con guardado de datos en real-time-database o firestore.
+GPS con guardado de datos en firebase
  
-- Web: [GPS guardado de datos](https://a-a3e2b.web.app/home)
+- Web: [GPS location](https://a-a3e2b.web.app/home)
 
 
 ## Configuraciones
@@ -37,16 +38,13 @@ firebaseConfig: {
 ```
 
 ### Pantalla para obtener localización
+![image](https://github.com/juandiego252/GeolocationApp/assets/102696740/cfd20ed1-63a3-49cb-9a07-dd820d92f221)
 
-|Pantalla implementada|Obtención de ubicación|
-|:---|:---|
-|![image](https://github.com/brittanypallasco2003/Portafolio_ionic/assets/117743650/75a2d567-a204-4d4f-be25-948087b159f3)|![image](https://github.com/brittanypallasco2003/Portafolio_ionic/assets/117743650/2f418674-d2e2-4818-8df9-5424de4ff5d6)|
 
 
 ### Ubicación almacenada en Firestore
-|Colección Locations|
-|-|
-|![image](https://github.com/brittanypallasco2003/Portafolio_ionic/assets/117743650/998a9560-3c4f-4477-a86e-fb6ebfc88a71)|
+![image](https://github.com/juandiego252/GeolocationApp/assets/102696740/7c65517d-9e6a-4b41-bb59-1755b41fd78a)
+
 
 
 
